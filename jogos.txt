@@ -1,0 +1,2 @@
+1,Flamengo,Palmeiras,2x1
+1,Corinthians,Santos,0x0
